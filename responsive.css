@@ -1,0 +1,5 @@
+@media only screen and (max-widht=768px) {
+    .owl-carousel testimonial-carousel{
+        display: block;
+    }
+}
